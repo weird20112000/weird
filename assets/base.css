@@ -1,0 +1,39 @@
+
+*, *::before, *::after{
+    margin: 0 ;
+    padding: 0;
+    box-sizing: border-box;
+}
+.apps{
+    font-family: 'Raleway', sans-serif;
+    width: 1920px;
+    height: 100%;
+    margin: 0 auto;
+}
+.grid{
+    width: 1140px;
+    height: 100%;
+    margin: 0 auto;
+}
+.btn{
+    width: 181px;
+    height: 60px;
+    border-radius: 5px;
+    background-color: #fd5a5a;
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: #0fc392;
+    color: white;
+}
+.grid-2{
+    width: 750px;
+    margin: 0 auto;
+    height: 100%;
+}

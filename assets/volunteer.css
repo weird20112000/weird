@@ -1,0 +1,208 @@
+.volunteer__list{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 140px;
+    margin-bottom: 140px;
+}
+.volunteer__item{
+    width: 364px;
+    height: 452px;
+    background-repeat: no-repeat;
+    margin-bottom: 84px;
+}
+.volunteer__item img{
+    width: 364px;
+    height: 452px;
+    object-fit: cover;
+    object-position: top;
+}
+.become{
+    height: 600px;
+}
+.become__vo{
+    text-align: center;
+}
+.become__heading{
+    font-size: 70px;
+    font-family: 'Playfair Display', serif;
+    padding-top: 198px;
+    margin-bottom: 60px;
+}
+.become__btn{
+    margin: 0 auto;
+    display: block;
+    text-decoration: none;
+    line-height: 50px;
+    width: 211px;
+    height: 50px;
+    text-transform: uppercase;
+    border: none;
+    outline: none;
+    background-color: #fd5a5a;
+    font-size: 14px;
+    font-weight: 600;
+    color: white;
+}
+.become__btn:hover{
+    background-color: #0fc392;
+}
+.volunteer__info{
+    margin-top: 140px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 138px;
+}
+.volunteer__info-item{
+    width: 555px;
+}
+.volunteer__info-item img{
+    object-fit: cover;
+    object-position: center;
+    width: 555px;
+    height: 445px;
+}
+.volunteer__info-item--heading{
+    margin-top: 50px;
+    margin-bottom: 27px;
+    font-size: 37px;
+    font-weight: 600;
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 28px;
+}
+.volunteer__info-item--paragarp{
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 25px;
+    color: #333;
+    margin-bottom: 28px;
+}
+.volunteer__info-item--link p {
+    margin-bottom: 28px;
+    font-weight: 600;
+}
+.volunteer__info-item--link p span{
+    color: #fd5a5a;
+    margin-right: 5px;
+}
+.bestvolunteer__bg{
+    height: 1121px;
+}
+.bestvolunteer{
+    height: 764px;
+}
+.volunteer__form{
+    width:1140px ;
+    height: 653px;
+    display: flex;
+    background-color: white;
+    box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.06);
+    margin-top: 140px;
+}
+.volunteer__form form{
+    width: 683px;
+}
+.form__padding{
+    margin: 68px;
+}
+.volunteer__form-content{
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #fd5a5a;
+    margin-bottom: 24px;
+}
+.volunteer__form-content span{
+    margin-right: 3px;
+}
+.volunteer__form-heading{
+    font-size: 45px;
+    font-weight: 600;
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 50px;
+}
+.volunteer__form-heading a{
+    color: black;
+    text-decoration: none;
+}
+.volunteer__form-group{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.volunteer__form-group input{
+    width: 264px;
+    height: 62px;
+    border: 1px solid #333;
+    padding: 20px;
+    outline: #fd5a5a;
+}
+.volunteer__form-group--text input{
+    width: 543px;
+    height: 146px;
+    padding: 20px;
+    outline: #fd5a5a;
+    margin-bottom: 20px;
+    border: 1px solid #333;
+}
+.form-group--btn{
+    background-color: #fd5a5a;
+    color: white;
+    text-transform: uppercase;
+    border: none;
+    width: 181px;
+    height: 60px;
+    cursor: pointer;
+}
+.form-group--btn:hover{
+    background-color: #0fc392;
+
+}
+.form-group--btn i{
+    margin-left: 5px;
+}
+.volunteer__member{
+    width: 457px;
+    background-color: #0fc392;
+    text-align: center;
+}
+.volunteer__member-img{
+    object-fit: cover;
+    margin-top: 12px;
+}
+.bestvolunteer{
+    margin-top: -198px;
+}
+.bestvolunteer__content{
+    text-align: center;
+    padding-top: 350px;
+    margin-bottom: 48px;
+    font-weight: 700;
+    font-size: 14px;
+}
+.bestvolunteer__heading{
+    font-size: 40px;
+    font-weight: 600;
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+    margin-bottom: 76px;
+
+}
+.bestvolunteer__list{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.bestvolunteer__item{
+    width: 360px;
+    height: 450px;
+    background-repeat: no-repeat;
+}
+.bestvolunteer__item img{
+    width: 360px;
+    height: 450px;
+    object-fit: cover;
+    object-position: top;
+}

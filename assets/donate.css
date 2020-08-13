@@ -1,0 +1,138 @@
+.container__donate{
+    height: 1612px;
+    position: relative;
+}
+.donate__pledged-heading{
+    font-size: 30px;
+    font-weight: 700;
+    font-family: 'Playfair Display', serif;
+    margin-top: 140px;
+    margin-bottom: 45px;
+}
+.donate__pledged-input{
+    display: flex;
+    margin-bottom: 20px;
+
+}
+.donate__pledged-input--icon{
+    display: block;
+    width: 77px;
+    height: 61px;
+    text-align: center;
+    line-height: 61px;
+    color: white;
+    background-color: #0fc392;
+    font-size: 20px;
+}
+.donate__pledged-input--input{
+    width: 672px;
+    height: 61px;
+    padding: 22px;
+    border: 1px solid #333;
+    outline: none;
+}
+.donate__opption-list{
+    display: flex;
+    list-style: none;
+    margin-bottom: 75px;
+}
+.donate__option-link{
+    text-decoration: none;
+    color: #333;
+    font-size: 20px;
+    display: block;
+    width: 70px;
+    height: 60px;
+    border: 1px solid #333;
+    text-align: center;
+    line-height: 60px;
+    margin-right: 20px;
+    font-weight: 600;
+}
+.donate__option-link:hover{
+    border: 1px solid #fd5a5a;
+    color: #fd5a5a;
+}
+.donate__option-btn{
+    font-size: 14px;
+    width: 210px;
+    background-color: #fd5a5a;
+    height: 60px;
+    color: white;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.donate__option-btn:hover{
+    background-color: #0fc392;
+}
+.donate__personal-heaading{
+    margin-bottom: 25px;
+}
+.donate__hr{
+    color: #0fc392;
+    width: 45px;
+    height: 4px;
+    background-color: #0fc392;
+    display: block;
+    margin-top: -3.5px;
+}
+.donate__form{
+    margin-top: 40px;
+    margin-bottom: 140px;
+}
+.donate__form-group{
+    margin: 22px;
+    width: 750px;
+}
+.donate__form-group--input{
+    margin-left: -22px ;
+    width: 750px;
+    height: 60px;
+    padding-left: 22px;
+    outline: none;
+    text-transform: uppercase;
+    border: none;
+    border: 0.5px solid rgb(97, 93, 93);
+    font-size: 14px;
+}
+.donate__form-heading--pay{
+    margin-top: 80px;
+    font-size: 30px;
+    font-weight: 700;
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 25px;
+}
+.donate__form-group{
+    display: flex;
+    justify-content: space-between;
+}
+.donate__form-group--input-payment{
+    width: 365px;
+    height: 60px;
+    margin-left: -22px ;
+    padding: 22px;
+    text-transform: uppercase;
+    border: none;
+    border: 0.5px solid rgb(97, 93, 93);
+    font-size: 14px;
+}
+.donate_form-group--btn{
+    margin-left: -22px;
+}
+.donate__form-group--option{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: -22px;
+}
+.donate__form-group--option span{
+    margin-left: 5px;
+}
+.donate__form-group--option-radio{
+    margin-right: 350px;
+}
+input[type = "radio"]{
+    color: #fd5a5a;
+    background-color: #fd5a5a;
+}
